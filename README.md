@@ -1,2 +1,2 @@
 # playground
-This is just code snippets.
+This repo is just for practice purpose only.
